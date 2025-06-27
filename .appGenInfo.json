@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Fri Jun 27 2025 05:55:38 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "OData Url",
+    "metadataFilename": "",
+    "serviceUrl": "https://services.odata.org/northwind/northwind.svc",
+    "appName": "products",
+    "appTitle": "Products",
+    "appDescription": "An SAP Fiori application.",
+    "appNamespace": "com",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.136.2",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.18.1",
+    "template": "List Report Page V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Products"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "Order_Details"
+      }
+    ],
+    "launchText": "In order to launch the generated app, simply run the following from the generated app root folder:\n\n```\n    npm start\n```"
+  }
+}
